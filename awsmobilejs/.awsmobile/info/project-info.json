@@ -1,0 +1,23 @@
+{
+	"ProjectName": "auth-example",
+	"ProjectPath": "/Users/dillonbailey/Code/auth-example",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "yarn build",
+	"StartCommand": "yarn start",
+	"InitializationTime": "2018-02-18-13-28-52",
+	"LastConfigurationTime": "2018-02-18-13-29-18",
+	"LastNPMInstallTime": "2018-02-18-19-25-46",
+	"FrontendLastBuildTime": "2018-02-18-19-29-13",
+	"LastPublishTime": "2018-02-18-19-30-46",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "2018-02-18-19-28-51",
+	"BackendLastBuildTime": "2018-02-18-19-28-37",
+	"BackendLastPushTime": "2018-02-18-19-28-42",
+	"BackendLastPushSuccessful": true,
+	"BackendProjectID": "8b3e318f-1453-11e8-b7ec-1579a7b87ac8",
+	"BackendProjectName": "auth-example-2018-02-18-13-29-18",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/8b3e318f-1453-11e8-b7ec-1579a7b87ac8/build",
+	"BackendProjectCreationTime": "2018-02-18T02:29:28.674Z",
+	"BackendProjectLastUpdatedTime": "2018-02-18T08:28:41.427Z"
+}
